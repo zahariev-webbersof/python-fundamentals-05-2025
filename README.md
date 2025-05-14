@@ -12,7 +12,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Basic Syntax, Conditional Statements and Loops**]() 
  
 ## Theory Тests: 
-➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-01-2025/blob/main/TEST%20-%20Basic%20Syntax,%20Conditional%20Statements,%20and%20Loops.md)
+➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Basic%20Syntax%2C%20Conditional%20Statements%20TEST.md)
  
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
