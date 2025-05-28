@@ -22,6 +22,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ## Practical Tasks: 
 ➡ [**Python Text Toolkit - practical task**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Python%20Text%20Toolkit.md)
 
+➡ [Digital Book Collection Manager]()
+
 ## Algorithms Tasks: 
 ➡ [**Python Text Toolkit - practical task**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Algorithm%20Challenge%3A%20Sequence%20Compression.md)
 
