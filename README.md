@@ -27,6 +27,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ## Algorithms Tasks: 
 ➡ [**Python Text Toolkit - practical task**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Algorithm%20Challenge%3A%20Sequence%20Compression.md)
 
+➡ [**Unique Streak Finder Algorithm - practical task**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Algorithm%20Challenge%3A%20**“Unique%20Streak%20Finder”.md)
+
 <br>
 
 </br>
