@@ -18,6 +18,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ➡ [**List Basics - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/List%20basics%20-%20TEST.md)
 
+➡ [**Functions - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Functions%20-%20TEST.md)
+
 ➡ [**List Advance - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/List%20Advance%20-%20TEST.md)
  
 ## Technology Stack:  
