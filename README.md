@@ -17,6 +17,8 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 ➡ [**Basic Syntax - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/Basic%20Syntax%2C%20Conditional%20Statements%20TEST.md)
 
 ➡ [**List Basics - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/List%20basics%20-%20TEST.md)
+
+➡ [**List Advance - TEST**](https://github.com/zahariev-webbersof/python-fundamentals-05-2025/blob/main/List%20Advance%20-%20TEST.md)
  
 ## Technology Stack:  
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,git,html,css,linux,apple,windows&theme=light)](https://skillicons.dev)
