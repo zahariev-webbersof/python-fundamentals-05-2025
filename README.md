@@ -1,7 +1,7 @@
 # SoftUni-Fundamentals-2025-05 🏫
 
 This repository contains solutions to tasks from the Programming Fundamentals with Python course at SoftUni University. It is part of the Software Academy program designed to introduce students to basic programming concepts using Python. The solutions cover essential topics such as variables, loops, conditional statements, functions, and data structures. Each solution provides a clear and well-documented approach to solving common programming challenges. The repository is a great resource for students to strengthen their understanding of Python and enhance their problem-solving skills. The tasks include working with basic data types, control flow, functions, and collections like lists and dictionaries. These exercises help students build a solid foundation for more advanced programming topics. This collection is ideal for anyone learning Python or looking to review fundamental programming concepts. The repository serves as both a learning tool and a reference for best practices. By studying these solutions, students can deepen their knowledge and gain confidence in Python programming.   
-           
+            
 Lecturer of course - **[Mario Zahariev](https://www.linkedin.com/in/mario-zahariev-753a7b202/)** 🐱‍🚀        
          
 Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni.org)** 📊             
