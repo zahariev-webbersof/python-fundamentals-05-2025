@@ -48,7 +48,7 @@ Online judge system - **[https://judge.softuni.org/](https://alpha.judge.softuni
 
 ![2048_d5964e5351708047190e99b52500b47a](https://pythonresource.net/static/main/logo4.png)
 
-
+ 
 ### 🌟 Official Python Documentation
 ➡  **[Python Docs](https://docs.python.org/3/)**  
   The official Python documentation is an excellent place to learn about Python's features, libraries, and syntax. It is updated with every Python release.
